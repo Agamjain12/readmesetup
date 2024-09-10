@@ -1,5 +1,3 @@
-# Project Name
-
 ## Installation
 
 1. npm install or yarn
