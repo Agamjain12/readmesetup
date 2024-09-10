@@ -11,6 +11,7 @@ Upon accessing the application, users are presented with two options:
 
 Create a Tenant: 
 This option is for users who want to create a new tenant.
+
 Your Organization: 
 This option is for users belonging to an existing organization.
 # Tenant Creation
