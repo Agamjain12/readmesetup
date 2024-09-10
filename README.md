@@ -9,11 +9,12 @@ This project provides a platform for managing tenants and organizations with a m
 # Landing Page
 Upon accessing the application, users are presented with two options:
 
-Create a Tenant: 
+1. Create a Tenant: 
 This option is for users who want to create a new tenant.
 
-Your Organization: 
+2. Your Organization: 
 This option is for users belonging to an existing organization.
+
 # Tenant Creation
 If the user selects Create a Tenant, they will be prompted to fill in the required details. After completing the form, the user will be redirected to the login page, where they can log in as the tenant admin using the credentials provided during tenant creation.
 
