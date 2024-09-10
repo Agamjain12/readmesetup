@@ -22,7 +22,7 @@ If the user selects Create a Tenant, they will be prompted to fill in the requir
 If the user selects Your Organization, they will be prompted to enter the tenant/organization name. If the organization exists, they will be redirected to the login page.
 
 ## Features
-## Admin Dashboard
+# Admin Dashboard
 After logging in as a tenant admin, the user will have access to an admin dashboard. The admin can:
 
 # View All Users: 
